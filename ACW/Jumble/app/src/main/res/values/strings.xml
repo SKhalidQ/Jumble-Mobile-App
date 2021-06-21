@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jumble! ACW - Sad Khalid Qayyum</string>
+    <string name="jumbleText">Welcome to Jumble!</string>
+    <string name="playJumbleText">Play Jumble!</string>
+    <string name="highScoreText">High Score</string>
+    <string name="aboutText">About</string>
+    <string name="aboutHowToPlayText">How to play:</string>
+    <string name="aboutMoveTileText">Click on the tiles that you want to swap.</string>
+    <string name="aboutReassemblePictureText">Reassemble the picture to win.</string>
+    <string name="aboutBuildVersion">" - Version: 1.0"</string>
+    <string name="aboutSupportEmail">Enter Support Email</string>
+    <string name="playPuzzle">Play</string>
+    <string name="highScoreTxt">Out of Service</string>
+    <string name="debugString">This is for debugging purposes</string>
+    <string name="aboutRotateTileText">Press and hold to rotate a tile.</string>
+
+</resources>

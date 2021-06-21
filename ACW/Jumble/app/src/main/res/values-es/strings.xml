@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jumble! ACW - Sad Khalid Qayyum</string>
+    <string name="jumbleText">Bienvenido a Jumble!</string>
+    <string name="playJumbleText">Jugar a Jumble!</string>
+    <string name="highScoreText">Puntuación más Alta</string>
+    <string name="aboutText">Acerca del juego</string>
+    <string name="aboutHowToPlayText">Como jugar:</string>
+    <string name="aboutReassemblePictureText">Completar la imágen para ganar.</string>
+    <string name="aboutMoveTileText">Haz click en la imagen que quieras intercambiar.</string>
+    <string name="aboutSupportEmail">Añade un Email de soporte</string>
+    <string name="playPuzzle">Jugar</string>
+    <string name="aboutBuildVersion" translatable="false">- Versión: 1.0</string>
+    <string name="highScoreTxt">Fuera de servico</string>
+    <string name="debugString">Esto es para depuración</string>
+    <string name="aboutRotateTileText">Mantenga presionada la imagen para girarla.</string>
+</resources>
